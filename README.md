@@ -2,7 +2,6 @@
 
 [![CI - Unit Tests](https://github.com/VidIsWandering/clean-architecture-golang/actions/workflows/ci.yml/badge.svg)](https://github.com/VidIsWandering/clean-architecture-golang/actions/workflows/ci.yml)
 [![Integration Tests](https://github.com/VidIsWandering/clean-architecture-golang/actions/workflows/integration.yml/badge.svg)](https://github.com/VidIsWandering/clean-architecture-golang/actions/workflows/integration.yml)
-[![codecov](https://codecov.io/gh/VidIsWandering/clean-architecture-golang/branch/main/graph/badge.svg)](https://codecov.io/gh/VidIsWandering/clean-architecture-golang)
 [![Go Report Card](https://goreportcard.com/badge/github.com/VidIsWandering/clean-architecture-golang/src)](https://goreportcard.com/report/github.com/VidIsWandering/clean-architecture-golang/src)
 [![Go Reference](https://pkg.go.dev/badge/github.com/VidIsWandering/clean-architecture-golang)](https://pkg.go.dev/github.com/VidIsWandering/clean-architecture-golang)
 [![Go version](https://img.shields.io/badge/go-1.21-blue.svg)](https://golang.org)
