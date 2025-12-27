@@ -35,7 +35,9 @@ jobs:
         run: cd src && go test -v -coverprofile=coverage.out ./...
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v5
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
         with:
           file: ./src/coverage.out
           flags: unittests
